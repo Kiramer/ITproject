@@ -1,3 +1,10 @@
 Dong thu 1 may tinh 1
 Dong thu 2 tren may tinh 2
 Dong thu 5 tren may tinh 2
+
+
+Dong thu 3 tren may tinh 1
+
+Dong thu 2 tren may tinh 2
+Dong thu 4 tren may tinh 1
+
