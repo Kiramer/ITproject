@@ -2,3 +2,4 @@ tvd
 noi dung thay doi o main
 Dung Git Gui base
 Dung sourc tree
+chinh sua
