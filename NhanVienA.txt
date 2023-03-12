@@ -1,2 +1,3 @@
 tvd
 noi dung thay doi o main
+Dung Git Gui base
