@@ -1,2 +1,6 @@
 abcdc
+
 noi dung o nhanh main
+
+noi dung o nhanh C
+
